@@ -1,0 +1,6 @@
+{
+  "name": "Universalis Real System Terminal",
+  "description": "Interactive protocol ledger, real-time hunger dividend distribution tracker, and FinCEN whistleblower exposure panel for the HeavenzFire overhaul.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
